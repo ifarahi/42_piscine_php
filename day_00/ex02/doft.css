@@ -1,0 +1,152 @@
+body {
+    background-color: #505050;
+}
+.header {
+    top: 10px;
+    width: 1420px;
+    height: 140px;
+    background-color: #909090;
+    margin: auto;
+    position: relative;
+    border-radius: 13px;
+    box-shadow: 14px 14px 25px;
+}
+.logo {
+    height: 120px;
+    width: 450px;
+    left: 10px;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.reload {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+
+}
+.close {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+
+}
+.loupe {
+    height: auto;
+    position: absolute;
+    top: 15px;
+    right:30px;
+}
+.container{
+	padding-top: 40px;
+    width: 1375px;
+	margin:0 auto;
+    position: relative;
+}
+.left-one {
+    width: 105px;
+	padding-left: 35px;
+	height: 400px;
+	padding-bottom: 20px;
+    padding-top: 30px;
+    background-color: #909090;
+    float: left;
+}
+.left-one img{
+	width: 70px;
+	margin-bottom: 10px;
+}
+.style {
+    border-radius: 13px;
+    box-shadow: 14px 14px 25px;
+    background-color: #909090;
+    float: left;
+
+}
+.mid-one {
+    margin-right: 35px;
+	width: 1020px;
+	margin-left: 35px;
+	padding-bottom: 10px;
+}
+.cluster{
+	width: 1000px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.right-one{
+	width: 131px;
+	height: 425px;
+    padding-top: 20px;
+    position: relative;
+}
+.book{
+	height: 87px;
+	width: 55px;
+    margin-left: 35px;
+}
+.towel{
+	width: 78px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.border_img{
+	border: 5px solid red;
+	border-radius: 10px;
+}
+.brick{
+	background: repeat url('resources/brick.jpg');
+	width: 110px;
+    height: 70px;
+    position: absolute;
+    left: 10px;
+}
+.green-box{
+	float: left;
+	width: 490px;
+	height: 170px;
+	position: absolute;
+	top: 550px;
+	left: -60px;
+	padding-left: 10px;
+	background-color: #88FF89;
+	font-family: Times;
+}
+.bold{
+    font-size: 37px;
+    font-family: serif;
+}
+.txt{
+    width: 380px;
+    height: 16px;
+    border-bottom: #505050 1px;
+}
+.green-box p{
+    font-size: 16px;
+    font-family: Verdana;
+    margin-bottom: 0;
+    margin-top: 0;
+ }
+.text-shadow{
+    text-shadow: 7px 7px 5px rgba(255, 77, 49, 1);
+}
+.italic{
+	font-size: 10px ;
+    font-style: italic;
+    font-family: Verdana;  
+}
+.sub{
+    border: none;
+    border-radius: 0;
+    font-size: 13px;
+    height: 19px;
+    letter-spacing: 1px;
+    padding-bottom: 18px;
+    padding-top: 1px;
+    width: 80px;
+    border: 1px solid #A8A4A5;
+}

@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #FFFFFF;
+}
+.menu
+{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+body {
+    font-family: Arial;
+    font-size: 22px;
+    line-height: 40px;
+}
+.menu ul {
+    list-style: none;
+}
+.menu ul ul {
+    display: none;
+}
+
+.menu ul li:hover > ul {
+    display: block;
+}
+.menu ul li {
+    background-color: #FFB5A6;
+    border: 1px solid #FF775F;
+    width: 250px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+.menu ul li:hover{
+    background-color: #FF775F;
+}
